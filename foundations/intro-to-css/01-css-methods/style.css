@@ -6,3 +6,15 @@ div {
 
 
   }
+
+.odd-num {
+    color: black;
+    background-color: rgb(126, 31, 194);
+    font-family: DejaVu Sans;
+}
+
+#two {
+    color: white;
+    background-color: blue;
+    font-family: DejaVu Sans;
+}
